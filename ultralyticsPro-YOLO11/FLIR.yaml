@@ -1,0 +1,9 @@
+path: D:\Desktop\ultralyticsPro0214-YOLO11\datasets
+train: D:\Desktop\ultralyticsPro0214-YOLO11\datasets\FLIR\train\images
+val: D:\Desktop\ultralyticsPro0214-YOLO11\datasets\FLIR\val\images
+test: D:\Desktop\ultralyticsPro0214-YOLO11\datasets\FLIR\test\images
+
+# Classes
+nc: 3
+
+names: ['pedestrian', 'bicycle', 'car']

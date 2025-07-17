@@ -1,0 +1,11 @@
+path: D:\Desktop\ultralyticsPro0214-YOLO11\datasets
+train: D:\Desktop\ultralyticsPro0214-YOLO11\datasets\uav-car.v1i.yolov8-without34\train\images  # train images (relative to 'path') 118287 images
+val: D:\Desktop\ultralyticsPro0214-YOLO11\datasets\uav-car.v1i.yolov8-without34\valid\images  # val images (relative to 'path') 5000 images
+test: D:\Desktop\ultralyticsPro0214-YOLO11\datasets\uav-car.v1i.yolov8-without34\test\images
+# Classes
+nc: 3  # number of classes
+
+names: ['Bicycle', 'Car', 'Person']
+
+
+
